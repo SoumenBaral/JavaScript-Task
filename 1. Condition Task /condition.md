@@ -98,3 +98,5 @@ You’re coding a ticket system that applies discounts based on passenger type.
 ✨ **Challenge Yourself:**  
 Try turning each of these programs into **functions** that take user input and return results!  
 Experiment with **template strings** and **console colors** to make outputs fun and interactive.
+
+This all the task must and mandatory to practice for you . First priority
